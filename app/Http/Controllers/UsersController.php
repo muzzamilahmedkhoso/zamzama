@@ -35,6 +35,15 @@ class UsersController extends Controller
 	public function muzamil2(){
 		
    	}
+
+   	public function muzamil3(){
+		
+   	}
+   	
+   	public function muzamil4(){
+		
+   	}
+   	
    	
 
    	public function toDayActivity(){
