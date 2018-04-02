@@ -29,7 +29,13 @@ class UsersController extends Controller
      */
    
    	public function muzamil222(){
-		
+	
+echo "aaa";
+echo "aaa";
+echo "aaa";
+echo "aaa";
+
+
    	}
 
    	
