@@ -31,7 +31,11 @@ class UsersController extends Controller
    	public function muzamil(){
 		
    	}
-	
+
+	public function muzamil2(){
+		
+   	}
+   	
 
    	public function toDayActivity(){
 		return view('Users.toDayActivity');
