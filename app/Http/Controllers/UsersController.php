@@ -30,10 +30,10 @@ class UsersController extends Controller
    
    	public function muzamil222(){
 	
-echo "aaa";
-echo "aaa";
-echo "aaa";
-echo "aaa";
+echo "1";
+echo "2";
+echo "3";
+echo "4";
 
 
    	}
