@@ -28,6 +28,11 @@ class UsersController extends Controller
      * @return \Illuminate\Http\Response
      */
    
+   	public function test(){
+		
+   	}
+	
+
    	public function toDayActivity(){
 		return view('Users.toDayActivity');
    	}
