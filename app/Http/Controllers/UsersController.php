@@ -28,13 +28,17 @@ class UsersController extends Controller
      * @return \Illuminate\Http\Response
      */
    
-   	public function muzamil(){
-		
+   	public function muzamil222(){
+	
+echo "aaa";
+echo "aaa";
+echo "aaa";
+echo "aaa";
+
+
    	}
 
-	public function muzamil2(){
-		
-   	}
+   	
    	
 
    	public function toDayActivity(){
