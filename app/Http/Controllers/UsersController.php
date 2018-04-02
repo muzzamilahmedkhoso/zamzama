@@ -28,7 +28,7 @@ class UsersController extends Controller
      * @return \Illuminate\Http\Response
      */
    
-   	public function faisal(){
+   	public function muzamil(){
 		
    	}
 	
